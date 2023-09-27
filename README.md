@@ -1,4 +1,4 @@
-# flutter_lumi13
+# quiz_app
 
 A new Flutter project.
 
